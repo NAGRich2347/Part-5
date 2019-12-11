@@ -43,6 +43,7 @@ while not done:
 
 
 
+
    #grass drawing
    pygame.draw.rect(screen, GRASS_GREEN, [0, 375, 700, 125])
    #house base
